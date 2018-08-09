@@ -1,0 +1,9 @@
+.container {
+    margin: 200px;
+}
+
+.container > .panel-body {
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}

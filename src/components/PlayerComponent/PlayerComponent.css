@@ -1,0 +1,19 @@
+.mainDiv {
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+    width: fit-content;
+    margin: auto;
+}
+
+.health {
+
+}
+
+.image
+{
+    margin: 5px 0px 5px 0px;
+}
